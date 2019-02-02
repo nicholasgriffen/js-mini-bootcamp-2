@@ -1,0 +1,24 @@
+{
+  "name": "js-mini-bootcamp-2",
+  "version": "0.1.0",
+  "description": "serve JavaScript exercises as tests in a sandbox ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasgriffen/js-mini-bootcamp-2.git"
+  },
+  "keywords": [
+    "javscript",
+    "mocha",
+    "hack-reactor"
+  ],
+  "author": "nicholasgriffen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasgriffen/js-mini-bootcamp-2/issues"
+  },
+  "homepage": "https://github.com/nicholasgriffen/js-mini-bootcamp-2#readme"
+}
